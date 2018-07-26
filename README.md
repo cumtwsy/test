@@ -7,3 +7,5 @@
 ## test the branch function again!
 
 ## hey,guys,i will test the function of branch again!
+
+## test the function of git in a new computer
